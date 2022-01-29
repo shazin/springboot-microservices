@@ -1,9 +1,0 @@
-spring:
-  application:
-    name: user-service
-
-management:
-  endpoints:
-    jmx:
-      exposure:
-        include: health,info
